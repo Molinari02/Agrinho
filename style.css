@@ -3,6 +3,7 @@ body{
 }
 
 ul {
+    color: orangered;
     display: flex;
     justify-content: space-between;
     list-style-type: none;
