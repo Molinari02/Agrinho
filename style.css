@@ -4,11 +4,17 @@ body{
 
 header {
     background-color: orangered;
-    height: 20%;
+    height: 10%;
 }
 
 .logo {
     height: 5%;
     width: 5% ;
     text-align: left;
+}
+
+.lista {
+    color: white;
+    text-align: right;
+    align-items: end;
 }
