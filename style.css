@@ -6,3 +6,8 @@ header {
     background-color: orangered;
     height: 40%;
 }
+
+.logo {
+    height: 20px;
+    width: 20px ;
+}
