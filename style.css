@@ -2,18 +2,7 @@ body{
     background-color: #FFF3E0;
 }
 
-ul {
-    color: orangered;
-    display: flex;
-    justify-content: space-between;
-    list-style-type: none;
-    align-items: end;
-    padding: 16;
-}
-
-:root {
-        --laranja-claro: #FF862A;
-    --alto-contraste-fundo: #000000;
-    --alto-contraste-texto: #ffffff;
-    --alto-contraste-link: #ffd700;
+header {
+    background-color: orangered;
+    height: 40%;
 }
