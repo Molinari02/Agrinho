@@ -16,6 +16,6 @@ header {
 .lista {
     color: white;
     text-align: right;
-    align-items: end;
     display: flex;
+    list-style: none;
 }
