@@ -15,7 +15,7 @@ header {
 
 .lista {
     color: white;
-    text-align: right;
+    text-align: left;
     display: flex;
     list-style: none;
 }
