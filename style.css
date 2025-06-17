@@ -10,7 +10,7 @@ header {
 .logo {
     height: 10%;
     width: 10% ;
-    text-align: end;
+    text-align: right;
 }
 
 .lista {
@@ -18,5 +18,5 @@ header {
     text-align: right;
     display: flex;
     list-style: none;
-    justify-content: s;
+    justify-content: end;
 }
