@@ -19,6 +19,8 @@ header {
     display: flex;
     list-style: none;
     justify-content: end;
+    justify-content: space-around;
+    align-items: end;
 }
 
 .letra{
