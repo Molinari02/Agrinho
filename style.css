@@ -8,14 +8,14 @@ header {
 }
 
 .logo {
-    height: 5%;
-    width: 5% ;
+    height: 10%;
+    width: 10% ;
     text-align: left;
 }
 
 .lista {
     color: white;
-    text-align: left;
+    text-align: right;
     display: flex;
     list-style: none;
     justify-content: space-between;
